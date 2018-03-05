@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Exercise2</string>
+    <string name="todo">Color</string>
+    <string name="save">Save</string>
+</resources>
